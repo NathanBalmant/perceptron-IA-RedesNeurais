@@ -91,16 +91,6 @@ java br.cefet.ia.perceptron.PerceptronRunner
 
 ---
 
-## 🧠 Fórmulas usadas
-
-- **Erro da amostra**:  
-  \( E_a = \sum_{j=1}^{k} |y_{aj} - o_{aj}| \)
-
-- **Erro da época**:  
-  \( E_e = \sum_{a=1}^{n} E_a \)
-
----
-
 ## 👨‍💻 Autor
 
 - **Nathan Balmant De Paula Souza**  
